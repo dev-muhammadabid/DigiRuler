@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">DigiRuler</string>
+    <string name="main_desc">Welcome to DiGiRuLer, the innovative digital measuring tool designed to make your life easier! Whether you\'re a professional in need of precise measurements or a DIY enthusiast looking to streamline your projects, Experience the future of measuring with DiGiRuLer.</string>
+    <string name="measure_btn">Measure</string>
 </resources>

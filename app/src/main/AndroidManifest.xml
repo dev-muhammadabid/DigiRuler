@@ -13,6 +13,21 @@
         android:theme="@style/Theme.DigiRuler"
         tools:targetApi="31">
         <activity
+            android:name=".CalcCenti"
+            android:exported="false"
+            android:label="CalculateCentimeters"
+            android:parentActivityName=".InterfaceActivity"/>
+        <activity
+            android:name=".CalcInches"
+            android:exported="false"
+            android:label="CalculateInches"
+            android:parentActivityName=".InterfaceActivity" />
+        <activity
+            android:name=".InterfaceActivity"
+            android:exported="false"
+            android:label="Interface"
+            android:parentActivityName=".MainActivity" />
+        <activity
             android:name=".MainActivity"
             android:exported="true">
             <intent-filter>
